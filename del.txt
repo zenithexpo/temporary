@@ -1,0 +1,6 @@
+
+    <!-- - Diving into NVIDIA's Jetson Platfrom 📊
+    - Understanding DeepStream SDK from NVIDIA 💡 -->
+    <!-- - Will be developing IVA applications 😍 -->
+    <!-- - learning Docker for production 🚢
+    - Experiencing with GStreamer, glib, OpenCV, CUDA, TensorRT, nvprof 📚  -->

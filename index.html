@@ -1,0 +1,119 @@
+---
+layout: page
+title: Saurabh
+subtitle: IVA | DL | CV
+use-site-title: true
+css: "/css/index.css"
+---
+
+<p>Hello! I am Saurabh Kumar Singh, A young enthusiastic boy carrying full of dreams in his eyes, having the hunger for technical skills, Learning AI, DL and Video Analytics.</p>
+
+
+<!-- <div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/popular" class="list-filter">Most Popular</a>
+  <a href="/tutorials" class="list-filter">Tutorials</a>
+  <a href="/tags" class="list-filter">Index</a>
+</div> -->
+
+<!-- 
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: site.date_format }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div> -->
+
+
+
+<!-- {% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %} -->
+
+
+
+<!-- Include the library. -->
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+</script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "imSrbh");
+    // or enable responsive functionality:
+    GitHubCalendar(".calendar", "imSrbh", { responsive: true });
+</script>
+<!-- add -->
+<script data-ad-client="ca-pub-4727855242456846" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="pub-4727855242456846" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/imSrbh/count.svg" />
+</p>
