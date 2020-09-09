@@ -6,7 +6,7 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am currently working as an Intelligent Video Analytics Engineer @ **martCow AI Technologies Pvt. Ltd, Hyderabad** , working closely with the team to create cities smarter and to provide affordable AI at the Edge🏢.  
+I am currently working as an Intelligent Video Analytics Engineer @ **SmartCow AI Technologies Pvt. Ltd, Hyderabad** , working closely with the team to create cities smarter and to provide affordable AI at the Edge🏢.  
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
 
 
