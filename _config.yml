@@ -24,7 +24,7 @@ navbar-links:
   Projects: "projects"
   About Me: "aboutme"
   Resources:
-    #LinkedIn: "https://www.linkedin.com/in/saurabh-kumar-singh-006947128/"
+    - LinkedIn: "https://www.linkedin.com/in/saurabh-kumar-singh-006947128/"
     - Resume: "https://drive.google.com/file/d/1_4ZKMd6AU2pVb4aogH4fJhUareWywsfk/view?usp=sharing"
 
     #https://drive.google.com/file/d/1PQC5MUKHuy_i8J0dW-M8ZW8CYRaTrpFa/view?usp=sharing
@@ -85,9 +85,9 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: _srbh__
-#  youtube: user/deanat78
+  youtube: https://www.youtube.com/channel/UCuAX1EDhxUsjaFmt5Cp7cSg/
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +91-84260-28076
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname

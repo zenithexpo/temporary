@@ -6,8 +6,9 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am a final year student pursuing B.Tech in Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
-I am currently working as an Intelligent Video Analytics Intern @ **SmartCow Co Ltd, Hyderabad** 🏢.  
+I am currently working as an Intelligent Video Analytics Engineer @ **SmartCow Co Ltd, Hyderabad** , working closely with the team to create cities smarter and to provide affordable AI at the Edge🏢.  
+I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
+
 
 - **Responsibilities include:**
     - Understanding the IVA Workflow 💻 and much more.
@@ -20,8 +21,11 @@ I am currently working as an Intelligent Video Analytics Intern @ **SmartCow Co 
 
 
 ### Work Experience
+- **SmartCow AI Technologies Pvt. Ltd (IVA Intern), Hyderabad**  
+    - Worked as an Intelligent Video Analytics Intern (AI at the Edge)
+    - Learned and worked on various technoligies like AWS, CUDA, GStreamer, NVIDIA Jetson Platform, Deepstream etc.
 - **CodeVector Labs LLP (AI Research Intern), Raipur**  
-    - Working as an Intern (AI in Sports)
+    - Worked as an Intern (AI in Sports)
     - Worked on Object Detection(YOLO) , Object Segmentation(R-CNN, Mask R-CNN) and other computer vision techniques for our custom dataset (Annotated own dataset to train YOLO object detection model) in Sports.
     - Developed various POCs.
     - Achieved **[Star of the Month Award - October 2019](https://www.linkedin.com/posts/codevector-ai-labs_cvlabs-ai-activity-6591922751697707008-xnmb)** for excellent work delivery.
