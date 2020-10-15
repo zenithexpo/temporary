@@ -6,8 +6,10 @@ subtitle: Read below to find out why I might be interesting for you.
 
 Hey there! I'm Saurabh Kumar Singh 😊. 
 
-I am currently working as an Intelligent Video Analytics Engineer @ **SmartCow AI Technologies Pvt. Ltd, Hyderabad** , working closely with the team to create cities smarter and providing affordable AI at the Edge🏢.  
+I was working as an Intelligent Video Analytics Engineer @ **SmartCow AI Technologies Pvt. Ltd, Hyderabad** , worked closely with the team to create cities smarter and providing affordable AI at the Edge🏢. 
 I have completed B.Tech in the dept. of Computer Science And Engineering @ **IIIT Naya Raipur** 🎓👨‍🎓.    
+
+I am actively looking for new opportunities in the field of **AI/ML, Deep Learning, Computer Vision and Cloud Services (AWS, GCP)**.
 
 
 - **Responsibilities include:**
@@ -45,7 +47,7 @@ disease, healthcare suggestion etc using Google's Firebase as the database.
 
 
 ## Skills
-	
+
 * **Programming Language:** C++, C, Shell, Python
 * **Tools:** LaTeX, Git, MATLAB, Jupyter, Docusaurus, Docker, Git
 * **Frameworks:** Tensorflow, CUDA, Android Studio, Firebase
