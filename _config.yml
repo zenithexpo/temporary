@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Saurabh Kumar Singh
+title: Diksha Verma
 
 # Short description of your site
 description: Virtual presence gets you recognised easily.
@@ -24,7 +24,7 @@ navbar-links:
   Projects: "projects"
   About Me: "aboutme"
   Resources:
-    - LinkedIn: "https://www.linkedin.com/in/saurabh-kumar-singh-006947128/"
+    - LinkedIn: "https://www.linkedin.com/in/112diksha-verma-93700b165/"
     - Resume: "https://drive.google.com/file/d/1_4ZKMd6AU2pVb4aogH4fJhUareWywsfk/view?usp=sharing"
 
     #https://drive.google.com/file/d/1PQC5MUKHuy_i8J0dW-M8ZW8CYRaTrpFa/view?usp=sharing
@@ -67,7 +67,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Saurabh Kumar Singh
+  name: Diksha Verma
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,12 +75,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #   rss: false
-  email: "saurabh16100@gmail.com"
+  email: "112dikshaverma@gmail.com"
   # facebook: deanattali
-  github: imSrbh
-  twitter: im_srbh
+  github: zenithexpo
+  twitter: DikshaVv
 #  reddit: yourname
-  linkedin: saurabh-kumar-singh-006947128/
+  linkedin: 112diksha-verma-93700b165/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -108,7 +108,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-165577557-1" 
+# google_analytics: "UA-165577557-1" 
 
 # Google Tag Manager ID
 #gtm: ""
@@ -125,7 +125,7 @@ google_analytics: "UA-165577557-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "imsrbh"
+# disqus: "imsrbh"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
@@ -134,15 +134,15 @@ disqus: "imsrbh"
 # fb_comment_id: ""
 
 # To use Staticman comments, fill in repository, branch, and endpoint
-staticman:
-  repository : #imsrbh/imsrbh.github.io
-  branch     : #master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
-  reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
-    # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+# staticman:
+#   repository : #imsrbh/imsrbh.github.io
+#   branch     : #master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+#   reCaptcha:
+#     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
+#     # If you use reCaptcha, you must also set these parameters in staticman.yml
+#     siteKey  : # Use your own site key, you need to apply for one on Google
+#     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
