@@ -12,7 +12,7 @@ I have experience working for startups as an intern @ **CereLabs and GSystems**
 I am actively looking for new opportunities in the field of **Software Developement**.
 
 
-- **Current Responsibilities **
+- **Current Responsibilities**
     - I'm currently working on application to redact documents and actively participating coding competitions. 
 
 - **In my spare time, I love to:**
