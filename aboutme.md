@@ -19,7 +19,7 @@ I am actively looking for new opportunities in the field of **Software Developem
     - do competitive coding
     - I love to write what I learned, So I am making the habbit of writing the blogs.
     - Painting and Sketching.
-    - play online computer games 🎮 like `CS:GO` ans `Chess`.
+    - play online computer games 🎮 like `CS:GO` and `Chess`.
     - travel to new places and connect with new people. 🧳
     - explore food and music. 🎧 + 😋
   
