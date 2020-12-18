@@ -16,11 +16,13 @@ I am actively looking for new opportunities in the field of **Software Developem
     - I'm currently working on application to redact documents and actively participating coding competitions. 
 
 - **In my spare time, I love to:**
-    - competitive coding 
-    - play online computer games 🎮 like `CS:GO`.
+    - do competitive coding
+    - I love to write what I learned, So I am making the habbit of writing the blogs.
+    - Painting and Sketching.
+    - play online computer games 🎮 like `CS:GO` ans `Chess`.
     - travel to new places and connect with new people. 🧳
     - explore food and music. 🎧 + 😋
-    - I love to write what I learned, So I am making the habbit of writing the blogs.
+  
 
 
 ### Work Experience   
