@@ -93,5 +93,5 @@ yelp:
   
 medium:
   name: "Medium"
-  baseURL: "{{ '/feed.xml' | relative_url }}"
+  baseURL: "https://{{site.author.medium}}.medium.com"
   icon: "fa-medium"
