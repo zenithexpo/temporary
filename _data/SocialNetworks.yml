@@ -93,5 +93,5 @@ yelp:
   
 medium:
   name: "Medium"
-  baseURL: ""
+  baseURL: "https://medium.com/@"
   icon: "fa-medium"
