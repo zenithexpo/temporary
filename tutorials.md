@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hi, Saurabh Here"
-subtitle: IVA Intern / Extreme Traveller
+title: "Hi, Diksha Here"
+subtitle: Member of Technical Staff Oracle, India
 css: "/css/index.css" 
 ---
 
